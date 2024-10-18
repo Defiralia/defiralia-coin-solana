@@ -52,16 +52,6 @@ crate DefiraliaCoin
   └── mod utils
 ```
 
-## TypeScript Tests
-TypeScript tests are placed in the `tests` directory. It contains the following files:
-- `DefiraliaCoin.ts` file - integration tests for the contract (more details in [Tests section](#tests) ),
-- `utils` directory - helper functions used in `DefiraliaCoin.ts` file.
-
-There are also some files related to TypeScript tests placed at root level:
-- `.env` file - contains environment variables used by the tests,
-- `package.json` file - declares dependencies and scripts used by TypeScript to run tests,
-- `tsconfig.json` file - contains compiler options used to compile TypeScript files with tests.
-
 ## Other files
 There are also few other files like Prettier configuration or Anchor configuration files at the root level.
 
