@@ -1,0 +1,13 @@
+.env
+.history/
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+yarn.lock
+Cargo.lock
+wallet-keypair.json
+package-lock.json
+tests
