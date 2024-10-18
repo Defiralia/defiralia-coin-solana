@@ -4,14 +4,10 @@ The documentation will be shared here: https://defiralia.com/swap-defirealia/
 # Getting Started
 Defiraliacoin requires some dependencies to be built and deployed.
 
-Dependencies required to build and deploy Defiraliacoin program:
+Dependencies required to build and deploy DefiraliaCoin program:
 - Rust 1.73.0 or higher
 - Solana CLI 1.14.17
 - Anchor 0.27.0
-
-Dependencies required to run TypeScript tests:
-- NodeJS 18.2.0 or higher
-- Yarn 1.22.19
 
 You can either install these dependencies in your OS manually or install Docker and use Dockerfile provided in this repository to start pre-configured container with all the dependencies. The second way is recommended because it's much simpler and less error-prone.
 
